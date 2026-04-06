@@ -1,6 +1,6 @@
 # Host Pricing Assistant
 
-## Demo Video
+## Video Demonstration
 
 https://youtu.be/feo0r0aSzsU
 
