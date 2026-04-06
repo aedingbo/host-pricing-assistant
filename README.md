@@ -1,5 +1,14 @@
 # Host Pricing Assistant
 
+## Demo Video
+
+https://youtu.be/feo0r0aSzsU
+
+**Key Sections**
+- Live Demo: 2:03 – 6:22
+
+---
+
 ## Overview
 
 Host Pricing Assistant is a full-stack web application that helps Airbnb-style hosts determine a recommended nightly price for their listing.
