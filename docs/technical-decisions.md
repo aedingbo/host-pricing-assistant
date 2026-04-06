@@ -1,4 +1,4 @@
-# Technical Decisions and Architecture
+# Technical Decisions
 
 ## Overview
 
